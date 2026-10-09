@@ -88,7 +88,7 @@ h1 {
   letter-spacing: -.055em;
 }
 h1 span { color: #b58b43; }
-.rule { height: 15px; margin: 5px 0 6px; border-top: 1px solid var(--indigo); position: relative; }
+.rule { height: 25px; margin: 15px 0 6px; border-top: 1px solid var(--indigo); position: relative; }
 .rule span { position: absolute; right: 0; top: -13px; font-size: 18px; }
 .contact-list {
   display: flex;
